@@ -50,10 +50,10 @@ var linkMenu = [
   ["AnimeNewsNetwork",         "",""],
   ["MyAnimeList",              "",""],
   ["Nyaa Tracker",             "",""],
-  ["BakaBT",                   "",""],
+  ["Anidub",                   "https://tr.anidub.com/",""],
   
   [svgSocial,                  "green",                                       "-HEAD-"], // Media
-  ["YouTube",                  "",""],
+  ["YouTube",                  "https://www.youtube.com/feed/subscriptions",""],
   ["Facebook",                 "",""],
   ["Reddit",                   "",""],
   ["Twitch",                   "",""],
